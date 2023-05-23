@@ -141,6 +141,12 @@ i{
     }
 }
 
+#vendido{
+    font-size: 1.25rem;
+    font-weight:$ancho-titulo;
+    
+}
+
 //contact//
 .hipervinculo{
     text-decoration:none;
@@ -168,7 +174,7 @@ i{
     margin-right:36px;
 }
 
-@media screen and(max-width:575px){
+@media screen and (max-width:575px){
    
     .desc-artista{
         font-size: 1rem; 
@@ -208,7 +214,7 @@ i{
     }
 }
 
-@media screen and(max-height:750px){
+@media screen and (max-height:750px){
     .lista-contacto{
         margin-top:1rem;
         margin-bottom:1rem;
